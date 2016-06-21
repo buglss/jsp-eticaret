@@ -1,1 +1,1 @@
-# Çok kısa bir süre sonra proje/kodlar dahil edilecektir. Ufak tefek sorunlar yaşıyorum.
+# Basic eshop sites. Basit eticaret sitesi.
